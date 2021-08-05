@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#message-box{
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+#header{
+    cursor: pointer;
+    height: 40px;
+    padding: 10px;
+    border-bottom: 1px solid#fff;
+}
+#footer{
+    height: 200px;
+    padding: 10px;
+    display: none;
+}
+#close{
+    float: right;
+
+}
+#close:hover{
+    color: black;
+}
